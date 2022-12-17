@@ -1,0 +1,23 @@
+.categoriesSection {
+    position: relative;
+    padding: 8vh 0;
+    padding-left: 5vw;
+    background-color: #fff;
+    width: 20%;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    box-sizing: border-box;
+    box-shadow: 0px 0px 55px #ededed;
+}
+
+.navBar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 12vh;
+    font-size: 16px;
+    color: #635cff;
+    text-transform: capitalize;
+    cursor: pointer;
+}
